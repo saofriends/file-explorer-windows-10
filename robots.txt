@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://file-explorer-windows-10.herokuapp.com/host-https-www.ytechb.com/sitemap_index.xml
+Sitemap: https://file-explorer-windows-10.herokuapp.com/sitemap/sitemap.xml
